@@ -30,10 +30,11 @@
 
 ### GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=radical&hide_border=true&bg_color=141321" width="48%" alt="stats graph" />
 
-  &nbsp;&nbsp;
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=radical&hide_border=true&bg_color=141321" width="48%" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" width="50%" height="180" alt="stats graph" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" width="50%" height="180" alt="languages graph" />
+
 </div>
 
 <div align="center">
