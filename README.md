@@ -49,8 +49,6 @@
 | **[Revisio](https://github.com/SyedMuhammadHunain/revisio)** | Learning platform to master DSA, OOP, and PF featuring a RAG-powered AI, performance analytics, smart proctoring, and more. | Angular 19, NestJS, MongoDB |
 | **[E-Commerce API](https://github.com/SyedMuhammadHunain/ecommerce-backend)** | Scalable backend featuring product management, shopping cart, checkout, Stripe, order system, and more. | NestJS, MongoDB|
 
----
-
 ### Connect With Me
 
 <div align="center">
