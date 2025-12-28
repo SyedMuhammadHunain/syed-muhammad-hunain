@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRpc3ZzYW94enF3NDhhZDQyOW84cWp6enF0NnFjazYzcWJtNGF1ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="60" height="60" />
-  <h2>Hi there, I'm Hunain! 👋</h2>
+  <h2>Hi there, I'm Hunain!</h2>
 </div>
 
 <p align="center">
