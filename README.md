@@ -42,7 +42,7 @@
 </div>
 ---
 
-### 🔗 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -64,5 +64,5 @@
 <br />
 
 <p align="center">
-  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
+  <i>If you like my work, consider giving a star to my repositories!</i>
 </p>
