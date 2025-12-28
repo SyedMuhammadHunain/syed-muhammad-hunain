@@ -13,7 +13,7 @@
 ---
 
 <h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30" /> 
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHF0cnhpZ3hncjJqNnB0d3g5Y3NvYTN1dnJrcTdpNTdvajBibHg0bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PPWqOCBcnAfuTDMpyN/giphy.gif" width="30" height="30" /> 
   About Me
 </h3>
 I'm an Undergraduate Computer Science Student and a full-stack developer who loves building modern applications and solving complex problems.
