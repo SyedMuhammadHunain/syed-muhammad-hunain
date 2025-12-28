@@ -1,29 +1,80 @@
-<h1 align="center">Hi 👋, I'm Hunain</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmuhammadhunain&label=Profile%20views&color=0e75b6&style=flat" alt="syedmuhammadhunain" /> </p>
+<div align="center">
+  <h2>Hi there, I'm Hunain! 👋</h2>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadhunain" alt="syedmuhammadhunain" /></a> </p>
-
-- 🔭 I’m currently working on **building my portfolio website**
-
-- 🌱 I’m currently learning **Angular advance concepts**
-
-- 💬 Ask me about **GSAP, PrimeNG, Angular Material UI, Swagger API, Postman**
-
-- 📫 How to reach me **hunain.rizwan.ofc@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syedmuhammadhunain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedmuhammadhunain" height="30" width="40" /></a>
-<a href="https://instagram.com/hunain__rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunain__rizwan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SyedMuhammadHunain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmuhammadhunain&show_icons=true&locale=en&layout=compact" alt="syedmuhammadhunain" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadhunain&show_icons=true&locale=en" alt="syedmuhammadhunain" /></p>
+I'm an Undergraduate Computer Science Student and a full-stack developer who loves building modern applications and solving complex problems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadhunain&" alt="syedmuhammadhunain" /></p>
+- 🔭 I’m currently working on: **Digital Product Passport**
+- 🌱 I’m currently learning: **NX Monorepo**
+- 👯 I’m looking to collaborate on: **Open Source Projects / Hackathons**
+- 🥅 2026 Goals: **Become GenAI Full Stack Developer**
+- ⚡ Fun fact: **Why so serious 🤡 and boring 🥱**
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:** TypeScript, C++, C
+
+**Frontend:** Angular 19, PrimeNG, HTML5, CSS3, Qt Framework
+
+**Backend:** NestJS
+
+**Database:** MongoDB
+
+**Tools:** Git, VS Code, Cursor, Postman, Swagger API
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+### 🔗 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Revisio](https://github.com/SyedMuhammadHunain/revisio)** | Learning platform to master DSA, OOP, and PF featuring a RAG-powered AI, performance analytics, smart proctoring, and more. | Angular 19, NestJS, MongoDB |
+| **[E-Commerce API](https://github.com/SyedMuhammadHunain/ecommerce-backend)** | Scalable backend featuring product management, shopping cart, checkout, Stripe, order system, and more. | NestJS, MongoDB|
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuhammadhunain)
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hunain__rizwan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[hunain.rizwan.ofc@gmail.com])
+
+</div>
+
+<br />
+
+<p align="center">
+  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
+</p>
