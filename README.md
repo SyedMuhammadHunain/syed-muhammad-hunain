@@ -28,18 +28,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <a href="https://github.com/SyedMuhammadHunain">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=radical&hide_border=true&bg_color=141321" width="48%" alt="stats graph" />
+  </a>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  &nbsp;&nbsp;
 
-</div>
+  <a href="https://github.com/SyedMuhammadHunain?tab=repositories">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=radical&hide_border=true&bg_color=141321" width="48%" alt="languages graph" />
+  </a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <br /> <br />
+
+  <a href="https://github.com/SyedMuhammadHunain">
+    <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=radical&hide_border=true&bg_color=141321" width="48%" alt="streak graph" />
+  </a>
+
 </div>
 
 ---
