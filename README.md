@@ -31,14 +31,14 @@
 ### GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" width="50%" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=synthwave&hide_border=true" width="50%" height="180" alt="stats graph" />
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" width="50%" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=synthwave&hide_border=true" width="50%" height="180" alt="languages graph" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=synthwave&hide_border=true" alt="streak graph" />
 </div>
 ---
 
