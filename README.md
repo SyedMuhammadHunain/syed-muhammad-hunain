@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=radical&hide_border=true&bg_color=141321" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 ---
 
