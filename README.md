@@ -1,23 +1,10 @@
-
 <div align="center">
 <img src="./profile-banner.png" width="100%" alt="Banner" />
 </div>
 
-<div align="center">
-  <h2>Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRpc3ZzYW94enF3NDhhZDQyOW84cWp6enF0NnFjazYzcWJtNGF1ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ykZS4KGnpdlY2f7XHg/giphy.gif" width="40" height="40"/> , I'm Hunain!</h2>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedMuhammadHunain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
-<h1>
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXM4dnRlaDZ4NnRsa2FmenJyZzN6cXEwY2IxeHF6dDY0Z2cybnp6NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EPuJxKTLZJl4htVc9o/giphy.gif" width="60" height="60" /> 
-  About Me
-</h1>
-I'm an Undergraduate Computer Science Student and a full-stack developer who loves building modern applications and solving complex problems.
+### About Me
 
 - 🔭 I’m currently working on: **Digital Product Passport**
 - 🌱 I’m currently learning: **NX Monorepo**
@@ -27,7 +14,7 @@ I'm an Undergraduate Computer Science Student and a full-stack developer who lov
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages:** TypeScript, C++, C
 
