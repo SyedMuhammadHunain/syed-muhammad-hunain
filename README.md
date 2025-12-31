@@ -38,8 +38,14 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
+
 
 ---
 
