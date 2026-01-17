@@ -18,7 +18,7 @@
 
 **Languages:** TypeScript, C++, C
 
-**Frontend:** Angular 19, PrimeNG, HTML5, CSS3, Qt Framework
+**Frontend:** Angular 19, HTML5, CSS3, Qt Framework
 
 **Backend:** NestJS
 
